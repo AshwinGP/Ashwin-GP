@@ -8,7 +8,6 @@ I'm a passionate **Full Stack Developer** with expertise in building modern, sca
 - 🎨 Build responsive, user-friendly **React** applications with clean UI/UX
 - ⚙️ Design RESTful APIs and microservices using **Node.js** and **Express**
 - 🗄️ Work with **PostgreSQL**, **MySQL**, and **Sequelize ORM** for robust data management
-- ☁️ Deploy and manage applications on **AWS** (EC2, S3, Lambda)
 - 🔄 Implement efficient **Redis caching** and **BullMQ** job queues
 
 ### 🛠️ Tech Stack
@@ -41,7 +40,7 @@ I'm a passionate **Full Stack Developer** with expertise in building modern, sca
 
 ### 📫 Let's Connect!
 - 📧 Email: **ashwin17.gp@gmail.com**
-- 💼 LinkedIn: **[Connect with me](https://linkedin.com/in/yourprofile)**
+- 💼 LinkedIn: **[Connect with me](https://linkedin.com/in/ashwingparvath)**
 - 🌐 Portfolio: **[Visit My Portfolio](https://yourportfolio.com)**
 - 📱 Phone: **+91 8310284120**
 
