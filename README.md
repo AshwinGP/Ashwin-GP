@@ -41,13 +41,6 @@ I'm a passionate **Full Stack Developer** with expertise in building modern, sca
 - 📧 Email: **ashwin17.gp@gmail.com**
 - 💼 LinkedIn: **[Connect with me](https://linkedin.com/in/ashwingparvath)**
 - 📱 Phone: **+91 8310284120**
-
-### 📊 GitHub Stats
-
-![Ashwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshwinGP&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinGP&layout=compact&theme=radical&hide_border=true)
-
 ---
 
 💡 **Open to opportunities** in Frontend Development, Full Stack Development, and challenging projects!
